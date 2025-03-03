@@ -26,6 +26,12 @@ Our e-commerce app has the following features:
 
 ![ecommerce-demo](/assets/images/django-pg/demo1.gif)
 
+> Python SDK Integration Tutorial Video
+>
+> <iframe width="300" height="380" src="https://www.youtube.com/embed/R303GYIKMdI?si=YidWdEy8k5ENxpBz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 > [**Try Cashfree Dev Studio**](https://www.cashfree.com/devstudio): Cashfree offers an SDK & API playground for developers. You can freely explore, experiment, and play with various APIs and SDKs offered by Cashfree Payments.
 
 ## Step 1: Set Up Your Django Project
